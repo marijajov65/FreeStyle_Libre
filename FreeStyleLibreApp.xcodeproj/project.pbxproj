@@ -15,6 +15,7 @@
 		D654AE02242A80E60071B73D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D654AE00242A80E60071B73D /* LaunchScreen.storyboard */; };
 		D654AE0D242A80E60071B73D /* FreeStyleLibreAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D654AE0C242A80E60071B73D /* FreeStyleLibreAppTests.swift */; };
 		D654AE18242A80E60071B73D /* FreeStyleLibreAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D654AE17242A80E60071B73D /* FreeStyleLibreAppUITests.swift */; };
+		D654AE2A242A9E230071B73D /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D654AE29242A9E230071B73D /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D654AE13242A80E60071B73D /* FreeStyleLibreAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FreeStyleLibreAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D654AE17242A80E60071B73D /* FreeStyleLibreAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreeStyleLibreAppUITests.swift; sourceTree = "<group>"; };
 		D654AE19242A80E60071B73D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D654AE29242A9E230071B73D /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D654ADFE242A80E60071B73D /* Assets.xcassets */,
 				D654AE00242A80E60071B73D /* LaunchScreen.storyboard */,
 				D654AE03242A80E60071B73D /* Info.plist */,
+				D654AE29242A9E230071B73D /* SecondViewController.swift */,
 			);
 			path = FreeStyleLibreApp;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D654AE2A242A9E230071B73D /* SecondViewController.swift in Sources */,
 				D654ADFA242A80E30071B73D /* ViewController.swift in Sources */,
 				D654ADF6242A80E30071B73D /* AppDelegate.swift in Sources */,
 				D654ADF8242A80E30071B73D /* SceneDelegate.swift in Sources */,
